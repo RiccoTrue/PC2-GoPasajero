@@ -505,9 +505,3 @@ Gray Scale:         #F9FAFB → #111827  /* Fondos, textos, bordes */
 Este proyecto es privado y confidencial.
 
 ---
-
-## 👨‍💻 Desarrollado con ❤️
-
-GoPasajero - Sistema de Venta de Pasajes de Buses Interprovinciales
-
-**Stack Principal:** Next.js + TypeScript + Prisma + PostgreSQL
