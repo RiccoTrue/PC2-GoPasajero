@@ -4,14 +4,6 @@
 
 Sistema integral de venta de pasajes de buses interprovinciales que conecta empresas de transporte con pasajeros, ofreciendo una plataforma moderna y eficiente para la gestión de viajes, rutas, buses y ventas.
 
-## 📋 Tabla de Contenidos
-
-- [Tecnologías Utilizadas](#-tecnologías-utilizadas)
-- [Arquitectura del Sistema](#️-arquitectura-del-sistema)
-- [Características Principales](#-características-principales)
-- [Instalación](#-instalación)
-- [Scripts Disponibles](#-scripts-disponibles)
-- [Roles y Permisos](#-roles-y-permisos)
 
 ---
 
