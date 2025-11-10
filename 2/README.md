@@ -2,13 +2,17 @@
 
 ## Módulo de Gestión de Reportes
 
-### Caso de Uso CU01: Reporte de Ventas del día
+## Caso de Uso CU01: Reporte de Ventas del día
+
 | **Código Requisito** | **RF01** |
 | -- | -- |
 | **Código Interfaz** | P01 |
-| **Imagen Interfaz** | <p align="center">
-  <img src="PrototipoInicioReportes.jpg" alt="PrototipoInicioReportes" width="100%">
-</p> |
+
+### Imagen Interfaz
+
+<p align="center">
+  <img src="frigorifica.jpg" alt="Logo Camal San Pedro" width="100%">
+</p>
 
 **Eventos:**
 
