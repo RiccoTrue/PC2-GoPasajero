@@ -4,14 +4,12 @@
 
 ## Caso de Uso CU01: Reporte de Ventas del día
 
-| **Código Requisito** | **RF01** |
-| -- | -- |
-| **Código Interfaz** | P01 |
+**Código Requisito** - R-501 
 
 ### Imagen Interfaz
 
 <p align="center">
-  <img src="frigorifica.jpg" alt="Logo Camal San Pedro" width="100%">
+  <img src="Caso1.png" alt="Logo Camal San Pedro" width="100%">
 </p>
 
 **Eventos:**
