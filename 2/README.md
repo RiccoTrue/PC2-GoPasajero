@@ -6,7 +6,9 @@
 | **Código Requisito** | **RF01** |
 | -- | -- |
 | **Código Interfaz** | P01 |
-| **Imagen Interfaz** | ![PANTALLA_1](/assets/images/3/3.5/P01.PNG) |
+| **Imagen Interfaz** | <p align="center">
+  <img src="PrototipoInicioReportes.jpg" alt="PrototipoInicioReportes" width="100%">
+</p> |
 
 **Eventos:**
 
