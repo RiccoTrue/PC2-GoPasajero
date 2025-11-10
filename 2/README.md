@@ -1,9 +1,8 @@
 # 9.1.5. Módulo 5 / Integrante 5
 
-## Módulo de Monitoreo de Entrega
+## Módulo de Gestión de Reportes
 
-### Caso de Uso CU01: Registrar operación de monitoreo
-
+### Caso de Uso CU01: Reporte de Ventas del día
 | **Código Requisito** | **RF01** |
 | -- | -- |
 | **Código Interfaz** | P01 |
